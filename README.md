@@ -13,14 +13,8 @@
 
 ## core skills
 
-<p align="left">
-  <img src="https://githubusercontent.com" height="40" alt="python" />&nbsp;
-  <img src="https://githubusercontent.com" height="40" alt="csharp" />&nbsp;
-  <img src="https://githubusercontent.com" height="40" alt="cpp" />&nbsp;
-  <img src="https://githubusercontent.com" height="40" alt="git" />&nbsp;
-  <img src="https://githubusercontent.com" height="40" alt="linux" />&nbsp;
-  <img src="https://githubusercontent.com" height="40" alt="vscode" />
-</p>
+![python](https://shields.io) ![csharp](https://shields.io) ![cpp](https://shields.io) ![linux](https://shields.io) ![vscode](https://shields.io)
+
 
 *   **languages:** python • c# • c++
 *   **projects & systems:** KIA AI • ETS2 Autopilot • game automation
