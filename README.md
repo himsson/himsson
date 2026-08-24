@@ -4,7 +4,7 @@
 
 ## about
 
-15-year-old software engineer, systems builder & ml enthusiast. working on KIA (Kerbal Intelligence Agency) and autonomous driving for ETS2.
+15 yo. student at the College of Informatics and Programming of the Financial University under the Government of the Russian Federation.
 
 *   🌐 **website:** [твой_сайт.com](https://твоя_ссылка) (или ссылка на Discord/Telegram)
 *   📧 **email:** [твой_email@example.com](mailto:твой_email@example.com)
