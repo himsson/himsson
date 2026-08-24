@@ -14,7 +14,14 @@
 
 ## core skills
 
-![Python](https://shields.io) ![C#](https://shields.io) ![C++](https://shields.io) ![Linux](https://shields.io) ![VS Code](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="C#">
+  <img src="https://shields.io" alt="C++">
+  <img src="https://shields.io" alt="Linux">
+  <img src="https://shields.io" alt="VS Code">
+</p>
+
 
 
 *   **languages:** python • c# • c++
