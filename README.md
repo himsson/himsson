@@ -14,14 +14,7 @@
 
 ## core skills
 
-<p align="left">
-  <img src="![Static Badge](https://img.shields.io/badge/JavaScript--JavaScript?style=for-the-badge&logo=JavaScript)
-" height="28" alt="Python" />&nbsp;&nbsp;
-  <img src="https://shields.io" height="28" alt="C#" />&nbsp;&nbsp;
-  <img src="https://shields.io" height="28" alt="C++" />&nbsp;&nbsp;
-  <img src="https://shields.io" height="28" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://shields.io" height="28" alt="VS Code" />
-</p>
+
 
 
 
