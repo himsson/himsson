@@ -16,12 +16,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,java,cs,cpp,kotlin,dart)](https://skillicons.dev)
 
+* **languages:** python • javascript • c# • c++ • kotlin • dart
 
+## tools
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,windows,blender,figma,flutter,github)](https://skillicons.dev)
 
-
-
-
-*   **languages:** python • c# • c++
-*   **projects & systems:** KIA AI • ETS2 Autopilot • game automation
-*   **tools:** Git • VS Code • Linux
+*   **tools:** vscode • visual studio • idea • androidstudio • windows • blender • figma • flutter • github
