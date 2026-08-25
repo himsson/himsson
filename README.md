@@ -7,7 +7,7 @@
 15 yo. student at the College of Informatics and Programming of the Financial University under the Government of the Russian Federation.
 
 <p align="left">
-  🌐 <a href="https://твоя_ссылка"><b>website</b></a> &nbsp;•&nbsp; 📧 <a href="mailto:твой_email@gmail.com"><b>email</b></a>
+  🌐 <a href="https://твоя_ссылка](https://himson.vercel.app/"><b>website</b></a> &nbsp;•&nbsp; 📧 <a href="mailto:твой_email@gmail.com"><b>email</b></a>
 </p>
 
 ---
