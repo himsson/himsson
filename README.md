@@ -15,7 +15,7 @@
 ## core skills
 
 <p align="left">
-  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="Python](https://img.shields.io/badge/Python--Python?style=for-the-badge&logo=python&logoSize=1)">
   <img src="https://shields.io" alt="C#">
   <img src="https://shields.io" alt="C++">
   <img src="https://shields.io" alt="Linux">
