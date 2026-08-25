@@ -14,7 +14,7 @@
 
 ## core skills
 
-
+[![My Skills](https://skillicons.dev/icons?i=py,js,java,cs,cpp,kotlin,dart)](https://skillicons.dev)
 
 
 
