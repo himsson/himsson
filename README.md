@@ -20,6 +20,6 @@
 
 ## tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,windows,blender,figma,flutter,elecrton,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,windows,blender,figma,flutter,github)](https://skillicons.dev)
 
 *   **tools:** vscode • visual studio • idea • androidstudio • windows • blender • figma • flutter • electron • github
